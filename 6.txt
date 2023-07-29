@@ -1,0 +1,10 @@
+Null Pointer Safety sisteminin faydaları, bir Null Pointer ile karşılaşıp karşılaşmayacağınızı
+önceden bilebilmeniz ve buna göre hareket edebilmenizdir.
+Bir şeyin Null olup olmadığından anlayabilir ve farklı bir şey yapabilirsiniz.
+
+Derleyici, null olasılığını ele almanızı sağlar, böylece tüm uygulamanızı durduran beklenmedik
+bir NullPointerException almazsınız.
+
+Genel olarak, null-safety, yazılım projelerinin daha güvenli, okunabilir ve bakımı kolay hale gelmesini
+sağlayarak geliştirme sürecini iyileştirir ve hatayı en aza indirir.
+Bu nedenle, bir programlama dilinde null-safety özelliğine sahip olmak, geliştiriciler için büyük bir avantajdır
